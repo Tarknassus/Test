@@ -3,13 +3,18 @@
 
 [window]
 
-opacity = 0.75
+opacity = 0.85
 
 padding.x = 15
 padding.y = 15
 
 decorations = "Full"
 decorations_theme_variant = "Dark" # "Light" # "Dark"
+
+dimensions = { columns = 150, lines = 50 }
+
+title = "Alacritty Terminal"
+dynamic_title = true
 
 [font]
 
@@ -20,3 +25,10 @@ bold_italic.family = "Red Hat Mono"
 
 size = 9.0
 
+offset = { x = 0, y = 1 }
+
+[colors]
+
+[colors.primary]
+foreground = "#eef0f6"
+background = "#363a53"
