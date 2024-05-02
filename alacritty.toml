@@ -1,0 +1,22 @@
+# $HOME/.config/alacritty/alacritty.toml
+# by RCheesman 2024-05-01
+
+[window]
+
+opacity = 0.75
+
+padding.x = 15
+padding.y = 15
+
+decorations = "Full"
+decorations_theme_variant = "Dark" # "Light" # "Dark"
+
+[font]
+
+normal.family = "Red Hat Mono"
+bold.family = "Red Hat Mono"
+italic.family = "Red Hat Mono"
+bold_italic.family = "Red Hat Mono"
+
+size = 9.0
+
