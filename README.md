@@ -1,1 +1,1 @@
-Just a dumping ground toi test Github and leanr the workflow.
+Just a dumping ground to test Github and learn the workflow.
