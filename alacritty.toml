@@ -32,3 +32,10 @@ offset = { x = 0, y = 1 }
 [colors.primary]
 foreground = "#eef0f6"
 background = "#363a53"
+
+[cursor]
+
+style = { shape = "Underline", blinking = "Always" }
+blink_interval = 350
+
+
